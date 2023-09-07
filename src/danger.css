@@ -1,0 +1,24 @@
+.danger-main {
+  background-color: rgb(250, 218, 218);
+  height: 100vh;
+  color: rgb(14, 14, 14);
+}
+
+.alert {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: 15%;
+}
+
+.map-container {
+  height: 180px;
+}
+
+.leaflet-container {
+  height: 50vh;
+}
+
+.h2-alert {
+  padding-bottom: 5%;
+}
